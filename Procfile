@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT al_farooq_sec_4947.wsgi:application
